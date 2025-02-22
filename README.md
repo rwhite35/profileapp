@@ -1,6 +1,8 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The project is deployed using AWS Amplify framework for managing all the backend plumbing. Alternatively
+the project would live in CloudFormation with VPC etc.  See Mod 11 Challenge Notes.
 
 Currently, two official plugins are available:
 
